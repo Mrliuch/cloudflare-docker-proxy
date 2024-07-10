@@ -14,6 +14,7 @@ const routes = {
   "k8s.mrlch.online": "https://registry.k8s.io",
   "ghcr.mrlch.online": "https://ghcr.io",
   "cloudsmith.mrlch.online": "https://docker.cloudsmith.io",
+  "nvcr.mrlch.online": "https://nvcr.io",
 
   // staging
   "docker-staging.mrlch.online": dockerHub,

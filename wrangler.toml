@@ -20,6 +20,7 @@ routes = [
   { pattern = "k8s.mrlch.online", custom_domain = true },
   { pattern = "ghcr.mrlch.online", custom_domain = true },
   { pattern = "cloudsmith.mrlch.online", custom_domain = true },
+  { pattern = "nvcr.mrlch.online", custom_domain = true },
 ]
 
 
